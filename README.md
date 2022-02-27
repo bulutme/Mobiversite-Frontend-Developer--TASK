@@ -1,4 +1,19 @@
+React Mobiversite Project
+
+While creating the project, I tried to custom write 
+almost most of the components. I got help from 
+Material Ui for only a few components. I used the 
+Grid system of material UI for layout in the project. 
+I used context api technology in state management. 
+I used SASS for design and the project is responsive.
+
+
 # Live Link https://bulutme-task.netlify.app/
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
